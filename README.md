@@ -1,5 +1,33 @@
 # 💫 About Me:
-## 👋 Hola, soy Brian Villalva!<br><br>Soy un **Backend Developer** de 21 años originario de Argentina, apasionado por la programación y siempre en busca de nuevos desafíos. Con 2 años de experiencia en el estudio y desarrollo de proyectos, he dedicado mi tiempo a perfeccionar mis habilidades en **Java** y **Spring Boot**, herramientas que considero esenciales para construir aplicaciones robustas y escalables.<br><br>En mi perfil encontrarás una colección de proyectos propios que reflejan mi compromiso con el aprendizaje continuo y la mejora constante. Mi objetivo es adquirir experiencia profesional y seguir creciendo como desarrollador, contribuyendo a proyectos innovadores y colaborando con otros profesionales en el campo.<br><br>Estoy abierto a oportunidades para colaborar en proyectos interesantes y aprender de la experiencia práctica en el mundo real. ¡No dudes en conectar conmigo para discutir ideas, proyectos o simplemente para charlar sobre tecnología!<br>
+## 👋 Hola, soy Brian Villalva 👋
+
+Soy **Backend Developer** de Argentina, apasionado por la programación, la mejora continua y los desafíos reales. Llevo más de 3 años inmerso en el mundo del desarrollo, especializándome en **Java** y **Spring Boot**, y aplicando mis conocimientos en un proyecto de alto impacto donde me encargué por completo del backend.
+
+He trabajado con tecnologías y herramientas como:
+
+- ☕ **Java + Spring Boot + Spring Security + JWT**
+- 🛢️ **MySQL** (AWS y Google Cloud SQL)
+- ☁️ **Google Cloud Platform**: Cloud Run, Cloud Build, Cloud Tasks
+- 📊 Automatización de carga masiva desde Excel con lógica jerárquica
+- 🗺️ **Google Maps API** para geolocalización dinámica de usuarios
+- 🛠️ Control de versiones con Git y GitHub
+
+En este tiempo desarrollé soluciones reales en producción, optimicé procesos complejos, integré servicios externos y aseguré la escalabilidad de toda la estructura backend. Aunque mi experiencia formal es reciente, mi nivel técnico y autonomía superan ampliamente el perfil junior.
+
+### 🎯 Mi objetivo
+
+Seguir creciendo como desarrollador, aprendiendo de nuevos equipos, enfrentando desafíos técnicos complejos y colaborando en proyectos innovadores que generen impacto.
+
+### 🤝 ¿Colaboramos?
+
+Estoy abierto a nuevas oportunidades, colaboraciones y charlas con otros profesionales del mundo tech.  
+Podés encontrarme también en:
+
+- 🔗 [LinkedIn](https://linkedin.com/in/brian-villalva-76b822238)
+- 📫 Email: villalvab2021@gmail.com  
+- 🌐 [GitHub](https://github.com/BrianVill)
+
+¡Gracias por visitar mi perfil! 🚀
 
 
 ## 🌐 Socials:
